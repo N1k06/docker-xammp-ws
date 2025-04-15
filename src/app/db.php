@@ -1,6 +1,5 @@
 <?php
 
-echo "ciao";
 //presi dal docker-compose.yml
 $host = 'db'; 
 $dbname = 'root_db'; 
